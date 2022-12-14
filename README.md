@@ -1,6 +1,6 @@
 # Hello! 
 
-My name is bella, and I've been a developer for around 8 years now. I started my journey with C and a couple months later, used unity for the first time. since then, I've worked on **many** projects that I'm suuper proud of, including things like a full 2D game engine, and a Game Boy assembly Tutorial.
+My name is bella, and I've been a developer for around 8 years now. I started my journey with C and a couple months later, used unity for the first time. since then, I've worked on **many** projects that I'm suuper proud of, including things like a full 2D game engine, and currently working on a couple retro games.
 
 I also consider myself to be fox-like, so don't be afraid to call me a fox!
 You can find my Itch.io page here https://deepforestinteractive.itch.io
