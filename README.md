@@ -10,3 +10,5 @@ I appreciate you checking me out, and if you want my help with any projects, you
 where I'm an active member on the GBDev server.
 
 ![](https://github-readme-stats.vercel.app/api?username=ApianbelleDev&theme=kacho_ga)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApianbellDev&theme=kacho_ga)
