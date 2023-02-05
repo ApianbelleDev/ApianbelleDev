@@ -8,3 +8,5 @@ I also have a youtube channel(I'm not that active on it, but I plan to be more a
 
 I appreciate you checking me out, and if you want my help with any projects, you can contact me on discord: Bella Marie#3381
 where I'm an active member on the GBDev server.
+
+![](https://github-readme-stats.vercel.app/api?username=ApianbelleDev)](https://github.com/anuraghazra/github-readme-stats)
