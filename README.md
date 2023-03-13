@@ -1,13 +1,23 @@
 # Hello! 
 
-My name is bella, and I've been a developer for around 8 years now. I started my journey with C and a couple months later, used unity for the first time. since then, I've worked on **many** projects that I'm suuper proud of, including things like a full 2D game engine, and currently working on a couple retro games.
+My name is Bella, and I'm a music composer based in Virginia who also makes games sometimes.
 
-I also consider myself to be fox-like, so don't be afraid to call me a fox!
-You can find my Itch.io page here https://deep-forest-interactive.itch.io
+## Info
+she/her
 
-I appreciate you checking me out, and if you want my help with any projects, you can contact me on discord: Bella Marie#3381
-where I'm an active member on the GBDev server.
+bisexual ~~I think~~
 
-![](https://github-readme-stats.vercel.app/api?username=ApianbelleDev&theme=kacho_ga)
+Furry(foxgirl)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApianbelleDev&theme=kacho_ga)
+## Contact info
+if you ever want to contact me for some reason, you can do so with any of the below methods. 
+
+Email: IzzabellaMarieMusic@proton.me
+
+Discord: Bella Marie#3381
+
+
+## TODO
+create website portfolio for my music
+
+link social media accounts
