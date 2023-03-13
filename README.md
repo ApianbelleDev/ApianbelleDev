@@ -7,7 +7,9 @@ she/her
 
 bisexual ~~I think~~
 
-Furry(foxgirl)
+Furry
+
+I'm very fox-like, so don't be afraid to call me a fox! ~~I *am* a foxgirl after all~~
 
 ## Contact info
 if you ever want to contact me for some reason, you can do so with any of the below methods. 
