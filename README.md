@@ -5,7 +5,7 @@ My name is Bella, and I'm a music composer based in Virginia who also makes game
 ## Info
 she/her
 
-bisexual ~~I think~~
+bisexual
 
 Furry
 
@@ -23,3 +23,6 @@ Discord: Bella Marie#3381
 create website portfolio for my music
 
 link social media accounts
+
+uh... UH...... *squeak!*
+~~I think that's all~~
