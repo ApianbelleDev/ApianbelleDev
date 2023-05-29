@@ -26,9 +26,8 @@ anything I do wouldn't be possible without these really cool people
 
 [Evie](https://github.com/eievui5) one of my best friends who is really nice, helpful, and experienced. she's helped me a lot with various things.
 
+## Other stuff
+[my website can be found here](https://apianbelledev.github.io/)
 ## TODO
-create website portfolio for my music
-
-link social media accounts
 
 uh... UH...... *squeak!*
