@@ -5,7 +5,7 @@ My name is Bella, and I'm a music composer based in Virginia who also makes game
 ## Info
 she/her
 
-bisexual
+bisexual, I think
 
 Furry
 
@@ -18,6 +18,13 @@ Email: IzzabellaMarieMusic@proton.me
 
 Discord: Bella Marie#3381
 
+## Cool people
+
+anything I do wouldn't be possible without these really cool people
+
+[Sylvie](https://github.com/zlago) - my wonderful sweet girlfriend
+
+[Evie]([https://github.com/ui5](https://github.com/eievui5) - one of my best friends who is really nice, helpful, and experienced. she's helped me a lot with various things.
 
 ## TODO
 create website portfolio for my music
@@ -25,4 +32,3 @@ create website portfolio for my music
 link social media accounts
 
 uh... UH...... *squeak!*
-~~I think that's all~~
