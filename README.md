@@ -24,7 +24,7 @@ anything I do wouldn't be possible without these really cool people
 
 [Sylvie](https://github.com/zlago) - my wonderful sweet girlfriend
 
-[Evie]([https://github.com/ui5](https://github.com/eievui5) - one of my best friends who is really nice, helpful, and experienced. she's helped me a lot with various things.
+[Evie](https://github.com/eievui5) one of my best friends who is really nice, helpful, and experienced. she's helped me a lot with various things.
 
 ## TODO
 create website portfolio for my music
