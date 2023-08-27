@@ -4,8 +4,7 @@ My name is Bella, and I'm a music composer based in Virginia who also makes game
 
 ## Info
 she/her
-
-bisexual, I think
+Lesbian(taken by [Sylvie](https://github.com/zlago)) :3 
 
 Furry
 
